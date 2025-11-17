@@ -1,0 +1,9 @@
+streamlit
+faster-whisper
+ffmpeg-python
+numpy
+pandas
+nltk
+matplotlib
+plotly
+python-multipart
